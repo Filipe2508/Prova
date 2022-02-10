@@ -12,6 +12,8 @@ Questão 3 - O que é um repositorio?
 
 Questão 4 - O que é Merge?
 
-É quando junta as branch
+É a junção das branch
 
-Questão 5 -
+Questão 5 - O que é pull?
+
+É uma forma de compartilhar as mudanças no repositorio

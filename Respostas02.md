@@ -5,3 +5,7 @@ Questão 1 - O que é pull request?
 Questão 2 - O que é fork?
 
 É uma copia de um repositório
+
+Questão 3 - O que é VCS?
+
+Significa Software de Controle de Versão

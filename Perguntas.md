@@ -6,4 +6,12 @@ Questão 2 - O que é commit?
 
 Empacotamento de alterações no repositorio
 
-Questão 3 - 
+Questão 3 - O que é um repositorio?
+
+É uma pasta onde é guardado os arquivos do projeto
+
+Questão 4 - O que é Merge?
+
+É quando junta as branch
+
+Questão 5 -

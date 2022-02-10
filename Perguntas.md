@@ -17,3 +17,7 @@ Questão 4 - O que é Merge?
 Questão 5 - O que é pull?
 
 É uma forma de compartilhar as mudanças no repositorio
+
+Questão 6 - O que é branch?
+
+São ramificações do repositorios
